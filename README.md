@@ -1,1 +1,1 @@
-# Image-Superresolution
+# Image Super Resolution
